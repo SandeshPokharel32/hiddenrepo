@@ -29,6 +29,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "backend-start": "node backend/server",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
